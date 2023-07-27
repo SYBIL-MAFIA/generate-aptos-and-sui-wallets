@@ -1,4 +1,3 @@
 aptos_sdk==0.6.1
 ecdsa==0.18.0
 mnemonic==0.20
-openpyxl==3.1.2
